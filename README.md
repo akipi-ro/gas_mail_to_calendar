@@ -15,5 +15,7 @@ GAS(javascript)
 
 2020/7
 ​
+
+
 サイトURL
 https://akipiro0407.wixsite.com/potofori
