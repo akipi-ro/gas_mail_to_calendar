@@ -14,8 +14,5 @@ GAS(javascript)
 期間
 
 2020/7
-
-​
-
-​
+サイトURL
 https://akipiro0407.wixsite.com/potofori
