@@ -18,4 +18,4 @@ GAS(javascript)
 ​
 
 ​
-
+https://akipiro0407.wixsite.com/potofori
