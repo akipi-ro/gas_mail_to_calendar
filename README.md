@@ -13,7 +13,7 @@ GAS(javascript)
 
 期間
 
-2020/7
+2020/7(javascript独学〜完成まで３週間程)
 ​
 
 
